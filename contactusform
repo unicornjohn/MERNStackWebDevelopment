@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT US FORM</title>
+</head>
+<body>
+    <h1>Welcome to My Profile</h1>
+    <h2>Contact Us Form</h2>
+    <form action=""></form>
+        
+          <label for="name" id="name" value="name"> <b> Name:</b>  </label>
+          <input placeholder="Enter your name">
+          <br>
+       
+        
+          <label for="email"> <b>Email: </b></label>
+          <input placeholder="Enter your email id..." name="email" id="email" required>
+      <br>
+        
+            <label for="Contact Number"> <b>Contact Number:</b> </label>
+            <input placeholder="Enter your Contact Number.." >
+            <label for="card"><br>
+              <span> <b> Gender:</b></span>
+            </label>
+            <select id="Male" name="usersex">
+              <option value="Male">Male</option>
+              <option value="fe">Female</option>
+              <option value="tg">Transgender</option>
+              <option value="Cs">Custom</option>
+            </select>
+            <br>
+            <label for="DOB"> <b>Date of Birth:</b> </label>
+            <input type="date" id="birth"name="date of birth"
+             value="yy/mm/dd">
+           
+            <br>
+           <span><b>Rating:</b></span>
+            <label><input type="radio" name="radio" value="1" /> 1</label>
+            <label><input type="radio" name="radio" value="2" /> 2</label>
+            <label><input type="radio" name="radio" value="3" /> 3</label>
+            <label><input type="radio" name="radio" value="4" /> 4</label>
+            <label><input type="radio" name="radio" value="5" /> 5</label>
+            <form method="post">
+              <br>
+           <label for="Message"> <b>Enter Your Message</b> </label> <br>
+            <textarea name="textarea"  cols="50" rows="5" minlength="20"
+            maxlength="20" placeholder="Enter message....."></textarea>
+            <br>
+            <input type="submit" value="Send" />
+            <input type="submit" value="Rest" />
+           <footer>
+           <a href="https://youtube.com"target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+             alt="youtube"
+            width="40"
+            height="40"></a>
+            <a href="https://instragram.com"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+              alt="instragram"
+             width="40"
+             height="40"></a>
+             <a href="https://telegram.com"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"
+              alt="telegram"
+             width="40"
+             height="40"></a>
+
+
+             </footer>
+            
+          
+          
+          
+          </form>
+            
+      
+                   
+
+</body>
+</html>
