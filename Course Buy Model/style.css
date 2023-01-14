@@ -1,0 +1,130 @@
+* { 
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+        .brand-color {
+            color: blueviolet;
+        }
+        .center-text {
+            text-align: center;
+        }
+        .main-card{
+           display: flex;
+           justify-content: space-evenly;
+        }
+        .course-heading-box {
+            padding-top: 3rem;
+        }
+     
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            display:flex;
+        }
+       
+        .course-card {
+            width: 400px;
+            padding: 1.5rem;
+            box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+           
+        }
+        
+        .course-image-box {
+            width: 100%;
+            border-radius: 0.5rem;
+            overflow: hidden;
+            height: auto;
+            
+        }
+        .course-image {
+            max-width: 100%;
+           
+        }
+
+        .text-color-black {
+            color: #000;
+        }
+        .course-title {
+            font-size: 1.5rem;
+            line-height: 2rem;
+            font-weight: 700;
+            margin: 0.75rem 0;
+            
+        }
+        .line {
+            height: 4px;
+            width: 95%;
+            background-color: #EDEDED;
+            margin-bottom: 1rem;
+            
+        }
+        .price-box {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            gap: 1rem;
+            font-weight: 700;
+        }
+        .discount {
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+        }
+        .line-through {
+            text-decoration-line:line-through;
+        }
+        .bg-color-green {
+            background-color: #1DD1A1;
+        }
+        .txt-color-grey {
+            color: #777C85;
+  
+        }
+        .text-color-black {
+            color: #000;
+        }
+        .text-color-white {
+            color: white;
+        }
+        .button2:hover {
+            background-color:rgb(141, 81, 198);
+            color: white;
+          }
+          .button {
+            background-color:rgb(213, 213, 213); 
+            border: none;
+            color: rgb(0, 0, 0);
+            padding: 16px 148px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            font-family: Arial, Helvetica, sans-serif;
+          }
+          .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+          }
+          .row::after {
+            content: "";
+            clear: both;
+            display: table;
+            
+          }
+          .container2{
+            display:flexs;
+          }
+          
+           
+          
+        
