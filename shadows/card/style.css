@@ -1,0 +1,29 @@
+.card{
+    width: 250px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+    text-align: center;
+    margin: 150px;
+    border-radius: 50% 20% / 10% 40%;
+}
+
+.header{
+    background-color: rgb(249, 153, 18);
+    color:white;
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 10PX 100PX / 120PX;
+    
+}
+.container{
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-stretch:ultra-condensed;
+    color: brown;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    font-family:serif;
+    
+}
