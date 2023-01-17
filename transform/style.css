@@ -1,0 +1,9 @@
+.box{
+    background-color: aqua;
+    /* transform: translate(10px 200px); */
+    /* transform: rotate(-45deg); */
+    margin: 10px;
+    /* transform: scale(2,5); */
+    /* transform: skew(45deg); */
+    transform: skew(-45deg)
+}
