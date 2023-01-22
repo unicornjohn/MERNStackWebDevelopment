@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <body>
-        <h1>Grocery Item</h1>
-        <ul>
-            <li>Milk</li>
-            <li>Suger</li>
-            <li>Maggi</li>
-            <li>Wine</li>
-    </ul>
-    
-<h1>House's Items</h1>
-</ol>
-    <li>Coffie</li>
-    <li>Mango</li>
-    <li>Oil</li>
-    </ol>
-    <img src="maggi.jpg" alt="nothing"
-    width="400"
-    height="400"/>
-
-    </body>
-</html>
+# Web-Development-CodeHelp-Only-HTML
+Full Stack Web Development Codes and Notes -> Source -> Code Help by Love Babbar 
+(Dot Batch - MERN stack Web Development) 
+![Project Name](https://user-images.githubusercontent.com/121122397/213859728-04b9c039-a685-425c-8469-3fb287a09aec.gif)
